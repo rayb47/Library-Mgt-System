@@ -1,0 +1,42 @@
+1,9783161484100,The Titan in The Stars,John B. Rand,2016-04-15,0
+2,9783161484136,The Reaper in The Sea,Jolea Johnson,2016-10-15,4253
+3,9783161483631,Angel's Legacy,Brad Blacktom,2016-12-22,0
+4,9783161483600,Queen of Nirvana,Joquena Ramslove,2016-12-23,5231
+5,9783161484927,Paradise Bound,Benedict Geysers,2017-01-12,1324
+6,9783161479391,Avalon Avenging,Gino Sidebottom,2017-03-30,4345
+7,9783161470293,The Prey in the Dark,Robert Junior,2017-06-12,0
+8,9783161139101,Before the Storm,Edith Alvarado,2017-09-14,0
+9,9783135352901,Mermaids and Sirens,Skye Talley,2017-11-15,0
+10,97831627245,The Hollow Earth,Shawn Johnston,2017-12-28,0
+11,97852251745,The Hollow Earth,Shawn Johnston,2018-01-27,0
+12,97832486991,The Titan in The Stars,John B. Rand,2018-03-29,0
+13,97852251745,The Hollow Earth,Shawn Johnston,2018-04-22,2463
+14,97852252756,Data Visualization Made Simple,Kristen Sosulski,2018-04-30,0
+15,97852252759,The Soul of a New Machine,Tracy Kidder,2018-05-04,3453
+16,97852252769,Structured Computer Organization,Andrew S Tanenbaum,2018-05-24,0
+17,97852252761,Hackers: Heroes of the Computer Revolution,Steven Levy,2018-07-04,0
+18,97852252759,Introduction to Algorithms,Thomas H. Cormen,2018-08-04,0
+19,97852252759,The Code Book,Simon Singh,2018-08-24,0
+20,97852252759,Getting the Design Right and the Right Design,Bill Buxton,2018-09-01,0
+21,9783161139101,Before the Storm,Edith Alvarado,2018-10-14,0
+22,99785225221,Cracking the Coding Interview,Gayle Laakmann McDowell,2018-11-17,0
+23,9783161470293,The Prey in the Dark,Robert Junior,2019-01-12,0
+24,97852255123,Elementary Number Theory With Programming,Peter Tangaraj,2019-03-01,0
+25,97852256123,Help Your Kids With Computer Science,David King,2019-04-01,4774
+26,97852256123,Help Your Kids With Computer Science,David King,2019-04-01,0
+27,97852357133,The Fifth Science,Exburia,2019-06-01,0
+28,97852448144,Lockdown,Peter May,2019-07-01,0
+29,97853337919,The Betrayals,Brdiget Collins,2019-08-01,0
+30,97852252756,Data Visualization Made Simple,Kristen Sosulski,2019-12-30,0
+31,97996212345,Python Programming:An Intro to Computer Science,John Zelle,2020-01-02,0
+32,97456661121,Computer Science:A Structured Programming Approach,K Ghandi,2020-02-07,0
+33,97757891001,An Introduction to Computer Science Using Python 3.6,Paul Crabs,2020-03-22,0
+34,91231234678,Starting Out with Programming Logic and Design,Tony Gaddis,2020-04-17,2323
+35,93367809012,Computer Science Illuminated,Nell Dale & Johnson Lewis,2020-05-18,0
+36,96612356151,Breasts and Eggs, Mieko Kawakami,2020-05-19,0
+37,95432319012,Where the Wild Ladies are, Aoko Matsuda,2020-06-06,0
+38,98567341271,Deacon King Kong,James McBride,2020-07-21,0
+39,99123342121,Burning,Megha Majumdar,2020-07-25,0
+40,91238763412,I Hold a Wolf by the Ears,Laura van den Berg,2020-09-17,0
+41,99654987123,Homeland Elegies, Ayad Akhtar,2020-10-13,9078
+42,99910065743,A Children's Bible, Lydia Millet,2020-11-21,0
